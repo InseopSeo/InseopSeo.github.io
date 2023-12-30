@@ -1,4 +1,4 @@
-# https://github.com/InseopSeo
+# https://InseopSeo.github.io
 블로그 개발 연습 중...
 
 ---
